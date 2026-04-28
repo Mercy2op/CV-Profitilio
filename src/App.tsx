@@ -197,7 +197,7 @@ export default function App() {
               <div className="grid gap-8">
                 <div className="space-y-2">
                   <h4 className="text-2xl font-serif italic font-bold">Lumbini Engineering College</h4>
-                  <p className="text-[10px] font-bold uppercase tracking-widest text-brand-accent">Bachelors in Information Technology</p>
+                  <p className="text-[10px] font-bold uppercase tracking-widest text-brand-accent">Bachelors in Computer Application</p>
                   <p className="text-sm text-zinc-600 leading-relaxed">
                     Focus on modern web architecture and systems design. Actively building personal 
                     and academic projects to master the full software lifecycle.
