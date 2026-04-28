@@ -130,11 +130,11 @@ export default function App() {
                 </li>
                 <li className="flex justify-between items-end border-b border-zinc-100 pb-2">
                   <span className="opacity-50 text-[9px] uppercase">PHONE</span> 
-                  <span>+977 98XXXXXXXX</span>
+                  <span>+977 9763658739</span>
                 </li>
                 <li className="flex justify-between items-end border-b border-zinc-100 pb-2">
                   <span className="opacity-50 text-[9px] uppercase">LOCATION</span> 
-                  <span>Lumbini, Nepal</span>
+                  <span>Butwal 11 Kalikanagar, Nepal</span>
                 </li>
               </ul>
             </div>
